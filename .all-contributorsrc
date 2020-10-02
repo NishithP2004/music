@@ -3,7 +3,9 @@
   "projectOwner": "NishithP2004",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "files": ["README.md"],
+  "files": [
+    "README.md"
+  ],
   "imageSize": 100,
   "commit": false,
   "contributorsPerLine": 7,
@@ -16,5 +18,16 @@
       "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
     }
   },
-  "contributors": []
+  "contributors": [
+    {
+      "login": "NishithP2004",
+      "name": "Nishith P",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/34577844?v=4",
+      "profile": "https://nishithp.live",
+      "contributions": [
+        "design"
+      ]
+    }
+  ],
+  "skipCi": true
 }
